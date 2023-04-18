@@ -1,6 +1,6 @@
-[![Header](https://github.com/MihaylovaYuliya/mihaylovayuliya/blob/main/assets/804494-1024x538.png)](https://demotivation.ru/pictures/kartinki-uhodyashhego-vremeni-60-kartinok)
+![Header](https://github.com/MihaylovaYuliya/mihaylovayuliya/blob/main/assets/804494-1024x538.png)
 
-I'm a beginner QA Software Engineer
+I am a Junior QA engineer with theoretical and practical knowledge of manual testing.  Since I had finished a testing course, I realized how important it is to be attentive to details and team player. I like new challenges that make me want to learn more and improve my skills every day. I seek to join a company that will give me the chance to apply my knowledge and develop myself as a QA engineer
 
 ## Languages and tools
 
