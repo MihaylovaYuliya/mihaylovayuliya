@@ -13,8 +13,8 @@ I am a Junior QA engineer with theoretical and practical knowledge of manual tes
 ## Follow me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/yuliyamihaylova/)
-<<<<<<< HEAD
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://web.telegram.org/k/#@yukka1983)
-=======
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://web.telegram.org/k/#@yukka1983)
 >>>>>>> 4ecfa14da22bbd439fb9f3b61ce4bc423d480fd4
